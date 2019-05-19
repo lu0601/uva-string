@@ -9,5 +9,6 @@ uva 483 - Word Scramble.cpp: istringstream, reverse()
 
 uva 494 - Kindergarten Counting Game.cpp: getline() 
 
-uva 1225 - Digit Counting.cpp: Originally, I want to use to_string, but I found it that my program can't be compiled after use to_string. Thus, I use my own way to substitute to_string. (Chrome has it that some compiler does not compile to_string.)  
+uva 1225 - Digit Counting.cpp: Originally, I want to use to_string, but I found it that my program can't be compiled after use to_string. Thus, I use my own way to substitute to_string. (Chrome has it that some compiler does not compile to_string.) 
 
+uva 156 - Ananagrams.cpp: sort 
